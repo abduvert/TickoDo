@@ -1,4 +1,4 @@
-# tickodo
+# TickoDo
 
 A new Flutter project.
 
