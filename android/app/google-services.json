@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "827829485756",
+    "project_id": "to-do-firebase-e4e42",
+    "storage_bucket": "to-do-firebase-e4e42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827829485756:android:fa7bdb0bd4e42e373490b9",
+        "android_client_info": {
+          "package_name": "com.example.tickodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6XCPnpZEgMA5SIhBRV3qyU9Ls-mk6lRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827829485756:android:96323e5200a0cbc83490b9",
+        "android_client_info": {
+          "package_name": "com.example.tryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6XCPnpZEgMA5SIhBRV3qyU9Ls-mk6lRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
